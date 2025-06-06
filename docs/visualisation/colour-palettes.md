@@ -4,6 +4,8 @@ This guide defines the approved NHS colour palette based on the [NHS Identity Gu
 
 ## 🟦 Core NHS Colours
 
+87% of people spontaneously recall these two colours - white and NHS blue - when asked about the NHS identity. Therefore, NHS blue and white are the dominant colours in our colour palette. They also ensure that communications maximise the strong value of the NHS identity and the positive attributes that patients, the public and stakeholders attach to it.
+
 | Colour     | Hex       | RGB              | Pantone | Usage                                                  |
 |------------|-----------|------------------|---------|--------------------------------------------------------|
 | NHS Blue   | `#005EB8` | `rgb(0, 94, 184)` | 300     | Primary NHS brand colour; used for main elements.      |
@@ -50,6 +52,81 @@ This guide defines the approved NHS colour palette based on the [NHS Identity Gu
 | NHS Orange            | `#ED8B00` | `rgb(237, 139, 0)` | 1585    | Call-to-actions, draw attention.                              |
 | NHS Warm Yellow       | `#FFB81C` | `rgb(255, 184, 28)`| 1235    | Warnings, informational highlights.                           |
 | NHS Yellow            | `#FAE100` | `rgb(250, 225, 0)` | 109     | Warnings, highlights – use sparingly.                         |
+
+## 🌐 NHS Regions
+
+| NHS Region        | Colour       | Hex Code  |
+|------------------|-------------------|-----------|
+| North East       | NHS Blue          | `#005EB8`   |
+| North West       | NHS Light Blue    | `#41B6E6`   |
+| East of England  | NHS Purple        | `#330072`   |
+| Midlands         | NHS Pink          |`#AE2573`   |
+| London           | NHS Light Green   | `#78BE20`   |
+| South West       | NHS Yellow        | `#FAE100`   |
+| South East       | NHS Orange        | `#ED8B00`   |
+
+## 🚑 NHS Ambulance
+
+| Ambulance Region    | Colour       | Hex Code  |
+|---------------------|-------------------|-----------|
+| North East          | NHS Dark Blue     | `#003087`   |
+| Yorkshire           | NHS Blue          | `#005EB8`   |
+| North West          | NHS Light Blue    | `#41B6E6`   |
+| East of England     | NHS Purple        | `#330072`   |
+| East Midlands       | NHS Light Purple  | `#880FB8`   |
+| West Midlands       | NHS Pink          | `#AE2573`   |
+| London              | NHS Light Green   | `#78BE20`   |
+| South Western       | —                 | `#ECE354`   |
+| South Central       | —                 | `#EE9F00`   |
+| South East          | —                 | `#ED4F00`   |
+
+## 📈 Chart Colours
+
+| Number of Colours      | Colour Description     | Hex Code  |
+|------------------------|------------------------|-----------|
+| One colour chart       | NHS Blue               | `#005EB8`   |
+| Two colour chart       | NHS Light Blue         | `#41B6E6`   |
+| Three colour chart     | NHS Slate              | `#4C6272`   |
+| Four colour chart      | NHS Yellow             |`#FFB81C`   |
+| Five colour chart      | NHS Pink               | `#AE2573`   |
+| Six colour chart       | NHS Aqua               | `#00A499`   |
+| Seven colour chart     | NHS Magenta            | `#E317AA`   |
+| Eight colour chart     | NHS Green              | `#007F3B`   |
+| Nine colour chart      | NHS Brown              | `#9A6324`   |
+| Ten colour chart       | NHS Light Green        | `#78BE20`   |
+| Eleven colour chart    | NHS Orange             | `#ED4F00`   |
+| Twelve colour chart    | NHS Light Purple       | `#880FB8`   |
+
+## 🟥🟩 RAG Colours
+
+### National Targets (Red - Green)
+- **Purpose**: Use when the visualisation shows whether a national target has been met or not.
+- **Example**: A&E performance, Cancer performance
+
+| Status     | Description          | Hex Code  |
+|------------|----------------------|-----------|
+| Red        | Target not met       | `#DA291C`   |
+| Green      | Target met           | `#006747`   |
+
+### Local Targets (Red - Amber - Green)
+- **Purpose**: Use when the visualisation shows whether a local target is on track to be met or not.
+- **Example**: Digital & Interoperable Medicines
+
+| Status     | Description                    | Hex Code  |
+|------------|--------------------------------|-----------|
+| Red        | Not on track / Intervention    | `#DA291C`   |
+| Amber      | Needs improvement              | `#ED8B00`   |
+| Green      | On track to be met             | `#006747`   |
+
+### Divergence
+- **Purpose**: Use when showing a wide range of good, bad and neutral values with a clear central point (e.g., 0).
+- **Example**: Product uptake across England, Year-on-year difference comparison
+
+| Status     | Description                  | Hex Code  |
+|------------|------------------------------|-----------|
+| Negative   | Far negative divergence      | `#DA291C`   |
+| Neutral    | Neutral (auto-selected)      | `#DFDFDF`   |
+| Positive   | Far positive divergence      | `#005EB8`   |
 
 ## 📌 Usage Notes
 

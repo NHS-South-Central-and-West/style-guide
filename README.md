@@ -1,4 +1,5 @@
 # 📘 NHS SCW Style Guide
+[![licence: OGL3](https://img.shields.io/badge/Licence-OGL3-darkgrey "licence: Open Government Licence 3")](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 Welcome to the **Style Guide** for NHS South, Central, and West CSU! This repository outlines our principles, standards, and best practices for delivering high-quality technical outputs to stakeholders and end users. It serves as a shared reference point for analysts, data scientists, engineers, and other contributors in our data and analytics team.
 
