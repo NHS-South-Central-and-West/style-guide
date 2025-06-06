@@ -2,7 +2,7 @@
 
 ## Our Commitment
 
-We are committed to creating a welcoming and inclusive environment for everyone contributing to the Data & Analytics Style Guide. We value diversity of thought, constructive collaboration, and mutual respect.
+We are committed to creating a welcoming and inclusive environment for everyone contributing to the NHS South, Central, and West Style Guide. We value diversity of thought, constructive collaboration, and mutual respect.
 
 All participants — contributors, reviewers, and maintainers — are expected to behave in a professional and respectful manner in all project spaces, including GitHub discussions, issues, and pull requests.
 

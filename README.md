@@ -71,44 +71,44 @@ style_guide/
 │
 ├── docs/
 │   ├── index.md
-│   ├── coding_standards/
+│   ├── coding-standards/
 │   │   ├── python.md
 │   │   ├── r.md
 │   │   ├── sql.md
-│   │   └── naming_conventions.md
+│   │   └── naming-conventions.md
 │   │
 │   ├── visualisation/
-│   │   ├── design_principles.md
+│   │   ├── design-principles.md
 │   │   ├── accessibility.md
-│   │   ├── chart_types.md
-│   │   └── color_palettes.md
+│   │   ├── chart-types.md
+│   │   └── color-palettes.md
 │   │
 │   ├── documentation/
-│   │   ├── readme_templates.md
-│   │   ├── dataset_metadata.md
-│   │   └── versioning_guidelines.md
+│   │   ├── readme-templates.md
+│   │   ├── dataset-metadata.md
+│   │   └── versioning-guidelines.md
 │   │
 │   ├── collaboration/
-│   │   ├── git_workflow.md
-│   │   ├── code_review.md
-│   │   └── issue_tracking.md
+│   │   ├── git-workflow.md
+│   │   ├── code-review.md
+│   │   └── issue-tracking.md
 │   │
 │   └── delivery/
-│       ├── stakeholder_communication.md
-│       ├── executive_summaries.md
-│       └── delivery_checklist.md
+│       ├── stakeholder-communication.md
+│       ├── executive-summaries.md
+│       └── delivery-checklist.md
 │
 ├── templates/
-│   ├── project_readme_template.md
-│   ├── dataset_metadata_template.yaml
-│   ├── report_template.md
-│   └── code_review_checklist.md
+│   ├── project-readme-template.md
+│   ├── dataset-metadata-template.yaml
+│   ├── report-template.md
+│   └── code-review-checklist.md
 │
 └── assets/
     ├── images/
-    │   └── color_palette.png
+    │   └── color-palette.png
     └── logos/
-        └── org_logo.svg
+        └── org-logo.svg
 ```
 
 ## 🧭 Guiding Principles
